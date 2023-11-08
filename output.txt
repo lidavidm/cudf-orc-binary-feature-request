@@ -1,0 +1,4 @@
+Schema of /tmp/binary.orc
+: string
+Schema of /tmp/binary.parquet
+_col0: binary not null
